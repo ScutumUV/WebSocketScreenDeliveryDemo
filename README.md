@@ -1,0 +1,2 @@
+# WebSocketScreenDeliveryDemo
+基于WebSocket的2个Android手机之间的屏幕共享
